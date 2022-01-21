@@ -1,0 +1,316 @@
+body, html {
+	margin: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 10px;
+	color: #000000;
+	text-decoration: none;
+	background-repeat: repeat-y;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+a:hover {
+    color: #000099;
+    text-decoration: underline;
+    font-weight: bold;
+}
+a.menu {
+	font-family: "Trebuchet MS", Tahoma;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+a.menu:hover {
+	font-family: "Trebuchet MS", Tahoma;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000099;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+a.tekst {
+	font-family: sans-serif, Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+}
+
+a.tekst:hover {
+	font-family: sans-serif, Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tekst2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 0em;
+	line-height: 14px;
+}
+a.tekst5 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #537AAA;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 1px;
+	line-height: 18px;
+}
+a.tekst5:hover {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #2D4E68;
+	letter-spacing: 1px;
+	line-height: 18px;
+	text-decoration: none;
+	cursor: pointer;
+}
+a.tekst6 {
+
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #0068A6;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 1px;
+	line-height: 16px;
+}
+a.tekst6:hover {
+
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #CE7B00;
+	letter-spacing: 1px;
+	line-height: 16px;
+	text-decoration: none;
+	cursor: pointer;
+}
+.picframe {
+	color: #FFFFFF;
+	border: 0px solid #666666;
+	cursor: pointer;
+}
+.tekstframe {
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 0em;
+	border: 1px dashed #999999;
+	line-height: 12px;
+}
+.borderpic {
+	border-top: 1px solid #B0BDC2;
+	border-right: 1px solid #B0BDC2;
+	border-bottom: 1px solid #B0BDC2;
+	border-left: 1px solid #B0BDC2;
+	cursor: pointer;
+}
+.tekstplaze {
+	font-family: "Trebuchet MS", Tahoma;
+	font-size: 21px;
+	font-weight: normal;
+	color: #000099;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 2px;
+}
+.picframe1 {
+	color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+.picframe2 {
+	color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	margin-left: 0px;
+	margin-top: 9px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+}
+a.tekstleft {
+
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #537AAA;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 1px;
+	line-height: 18px;
+}
+a.tekstleft:hover {
+
+
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 1px;
+	line-height: 18px;
+}
+.borderpic2 {
+
+	border-top: 3px solid #FFFFFF;
+	border-right: 3px solid #FFFFFF;
+	border-bottom: 3px solid #FFFFFF;
+	border-left: 3px solid #FFFFFF;
+	cursor: pointer;
+}
+.borderpic3 {
+	cursor: pointer;
+	border: 1px solid #687397;
+}
+.tekstok {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 18px;
+	font-weight: normal;
+	color: #666666;
+	letter-spacing: 0em;
+	cursor: default;
+}
+.tekstok2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	line-height: 18px;
+	cursor: default;
+	letter-spacing: 0em;
+}
+.form1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #00649F;
+	border: 1px solid #42A3DD;
+	background-color: #F5FBFC;
+	top: 2px;
+}
+.meteo1 {
+
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #FFFFFF;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #FFFFFF;
+	font-family: sans-serif, Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	background-image: url(shadow1.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color: #E6F2F7;
+	border-left-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+.meteotekst {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	font-weight: normal;
+	color: #000000;
+}
+.meteotekst2 {
+	font-family: Tahoma;
+	font-size: 11px;
+	line-height: 20px;
+	font-weight: normal;
+	letter-spacing: 0px;
+}
+a.style7 {
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 12px;
+	letter-spacing: 0em;
+}
+a.style7:hover {
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 12px;
+	letter-spacing: 0px;
+}
+.leftbox {
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #B1C0CD;
+	border-left-color: #B1C0CD;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-right-color: #B1C0CD;
+	background-color: #FFF8E8;
+	margin-right: 5px;
+	border-top-color: #B1C0CD;
+	background-image: url(shadow2.gif);
+	background-repeat: repeat-x;
+	background-position: left -1px;
+}
+.opsirnije {
+	background-image: url(opsirnije.gif);
+	background-repeat: no-repeat;
+	background-position: 12px 0px;
+	font-family: Tahoma;
+	font-size: 10px;
+	line-height: 12px;
+	font-weight: bold;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+}
+.line1 {
+	border-top: 1px dashed #F1D0A3;
+	border-right: 0px dashed #F1D0A3;
+	border-bottom: 0px dashed #F1D0A3;
+	border-left: 0px dashed #F1D0A3;
+	display: inline;
+	line-height: 1px;
+}
+.tekst3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	cursor: default;
+	letter-spacing: 1px;
+}
+.dotedline {
+	border-top: 1px dotted #CCCCCC;
+	border-right: 0px dotted #CCCCCC;
+	border-bottom: 0px dotted #CCCCCC;
+	border-left: 0px dotted #CCCCCC;
+}

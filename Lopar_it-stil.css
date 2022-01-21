@@ -1,0 +1,131 @@
+@charset "windows-1250";
+/* CSS Document */
+/*@import url("reset.css");*/
+
+body{
+	background:url(Slike_Pocetna/bg_body.gif) repeat;
+	}
+	
+#omotac{
+	width:850px;
+	height:1200px;
+	margin:0;
+	padding:0 0 0 0;
+	}
+	
+#zaglavlje{
+	width:850px;
+	height:350px;
+	}	
+	
+#logo-menu{
+	margin:auto
+	padding:auto;
+	width:380px;
+	height:310px;
+	float:left;
+	background:url(Slike_Pocetna/bg_logo_menu.gif) repeat-x bottom right;
+    }
+
+#slika-zaglavlja{
+	width:380px;
+	height:310px;
+	float:right;
+	margin:0 30 0 0;
+    }
+
+#logo{
+	width:300px;
+	height:100px;	
+	}
+	
+#menu{
+	margin:auto; 
+	padding:20px 0 10px 0; 
+	width:300px;
+	height:196px;
+	}
+
+
+#menu ul li a:link, #menu ul li a:visited{ 
+	display:block; 
+	width:290px;
+	height:25px;
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#03F;
+	text-decoration:none;
+	}
+
+
+#menu ul li a:hover{
+	background:#FC6;
+	}
+
+
+	
+#sadrzaj{
+	width:840px;
+	height:1010px;
+	}
+	
+
+#stupac-1{
+	width:380px;
+	heihgt:310px;
+	float:left;
+	margin:0 0 0 0;
+	}
+	
+	
+#stupac-2{
+	width:380px;
+	heihgt:310px;
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#03C;
+	float:right;
+	margin:20 0 80 40;
+	}	
+
+#stupac-3{
+	width:380px;
+	heihgt:310px;
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#03C;
+	float:left;
+	margin:80 0 0 0;
+	}
+	
+	
+#stupac-4{
+	width:380px;
+	heihgt:310px;
+	float:right;
+	margin:10 20 0 0;
+	}	
+
+
+#stupac-5{
+	width:380px;
+	heihgt:320px;
+	float:left;
+	margin:100 0 0 0;
+	}
+	
+	
+#stupac-6{
+	width:380px;
+	heihgt:310px; 
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#03C;
+	float:right;
+	margin:50px 0 0 0;
+	}	
+
+
+
+
+ul{
+	list-style-type:none;
+	}
+	
+	
